@@ -45,8 +45,8 @@ fecha: 2026-09
 ---
 medio: Capital Radio
 titulo: Ciber Afterwork: el lanzamiento de Bitnaga y los cambios en el ecosistema de la ciberseguridad
-breve_resumen: Fernando Denis participa en Ciber Afterwork, el programa de ciberseguridad de Capital Radio Business, para hablar del lanzamiento de Bitnaga y de cómo está cambiando el ecosistema de la ciberseguridad.
-enlace: https://lnkd.in/p/eQDjnTUV
+breve_resumen: Fernando Denis participa en Ciber Afterwork, el programa de ciberseguridad de Capital Radio Business, junto a Eduardo Castillo Lozano, Pablo San Emeterio López y Mónica Valle, para hablar del arranque de Bitnaga y de cómo está cambiando el ecosistema de la ciberseguridad a todos los niveles.
+enlace: https://www.capitalradio.es/audio/6a9efbe15f78715d33371ef4/144596612
 fecha: 2026-09-07
 ---
 imagen: yt-gFryiY0QORo.jpg
