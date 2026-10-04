@@ -30,6 +30,13 @@ titulo: Una ambiciosa y diferenciadora BITNAGA inicia sus operaciones
 breve_resumen: Reportaje en el nº 171 de SIC (septiembre de 2026) sobre el arranque de Bitnaga, una empresa de ciberseguridad concebida de raíz como IA-native, con entrevista a su CEO, Fernando Denis Ramírez.
 fecha: 2026-09
 ---
+imagen: yt-gFryiY0QORo.jpg
+medio: YouTube · David Postigo
+titulo: La industria (y la ciberseguridad) en la era de la IA | Fernando Denis
+breve_resumen: Entrevista en vídeo a Fernando Denis, CEO de Bitnaga, en el canal de David Postigo, sobre la industria y la ciberseguridad en la era de la inteligencia artificial.
+enlace: https://www.youtube.com/watch?v=gFryiY0QORo
+fecha: 2026-08-23
+---
 imagen: diario-sur-jul-2026.jpg
 medio: Diario Sur
 titulo: El cierre de Sofistic en Málaga cataliza el nacimiento de Bitnaga, una empresa de ciberseguridad «malagueña e IA-nativa»
