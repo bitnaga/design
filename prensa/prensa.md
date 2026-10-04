@@ -19,7 +19,7 @@ fecha: 2026-01-31
 -->
 
 imagen: yt-B5IDULV42kI.jpg
-medio: YouTube · TuCasaCórdoba
+medio: PTV
 titulo: ¿Qué es Vigía13? El proyecto de Bitnaga para controlar el uso de IA
 breve_resumen: Javier González explica en una entrevista en vídeo qué es Vigia13, el proyecto de Bitnaga para controlar el uso de la IA en las organizaciones.
 enlace: https://www.youtube.com/shorts/B5IDULV42kI
