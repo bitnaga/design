@@ -18,6 +18,12 @@ enlace: https://ejemplo.com/articulo
 fecha: 2026-01-31
 -->
 
+medio: COPE Málaga
+titulo: La Tarde en COPE Más Málaga · 28 de septiembre
+breve_resumen: Bitnaga en la radio: el programa del 28 de septiembre de 2026 dedica un espacio a la ciberseguridad y la inteligencia artificial.
+enlace: https://www.cope.es/emisoras/andalucia/malaga-provincia/malaga/podcast/episodios/16-30h-28-septiembre-tarde-cope-malaga-20260928_3445222.html
+fecha: 2026-09-28
+---
 medio: El Español
 titulo: «Con la IA hemos creado algo más inteligente que nosotros, no sabemos qué va a pasar en pocos años, es preocupante»
 breve_resumen: Entrevista a Fernando Denis, fundador de Bitnaga: su trayectoria en la ciberseguridad, el nacimiento de Bitnaga como empresa «AI native» ligada a Málaga y el impacto de la IA en el empleo.
