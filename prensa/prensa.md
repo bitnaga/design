@@ -20,7 +20,7 @@ fecha: 2026-01-31
 
 medio: COPE Málaga
 titulo: La Tarde en COPE Más Málaga · 28 de septiembre
-breve_resumen: Bitnaga en la radio: el programa del 28 de septiembre de 2026 dedica un espacio a la ciberseguridad y la inteligencia artificial.
+breve_resumen: Fernando Denis comparte micrófono con Concepción Cordón Fuentes y Enrique Rando González para hablar de Málaga como polo tecnológico y de los eventos de ciberseguridad del 1 de octubre (ISMS Forum, Segurinfo y Gateway Summit), y de cómo Bitnaga ayuda a mejorar la ciberseguridad cuando la IA abre nuevos vectores de ataque.
 enlace: https://www.cope.es/emisoras/andalucia/malaga-provincia/malaga/podcast/episodios/16-30h-28-septiembre-tarde-cope-malaga-20260928_3445222.html
 fecha: 2026-09-28
 ---
