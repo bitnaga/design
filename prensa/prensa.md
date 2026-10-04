@@ -43,6 +43,7 @@ titulo: Una ambiciosa y diferenciadora BITNAGA inicia sus operaciones
 breve_resumen: Reportaje en el nº 171 de SIC (septiembre de 2026) sobre el arranque de Bitnaga, una empresa de ciberseguridad concebida de raíz como IA-native, con entrevista a su CEO, Fernando Denis Ramírez.
 fecha: 2026-09
 ---
+imagen: capital-radio-ciber-afterwork.jpg
 medio: Capital Radio
 titulo: Ciber Afterwork: el lanzamiento de Bitnaga y los cambios en el ecosistema de la ciberseguridad
 breve_resumen: Fernando Denis participa en Ciber Afterwork, el programa de ciberseguridad de Capital Radio Business, junto a Eduardo Castillo Lozano, Pablo San Emeterio López y Mónica Valle, para hablar del arranque de Bitnaga y de cómo está cambiando el ecosistema de la ciberseguridad a todos los niveles.
