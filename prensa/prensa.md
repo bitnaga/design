@@ -18,6 +18,13 @@ enlace: https://ejemplo.com/articulo
 fecha: 2026-01-31
 -->
 
+imagen: yt-B5IDULV42kI.jpg
+medio: YouTube · TuCasaCórdoba
+titulo: ¿Qué es Vigía13? El proyecto de Bitnaga para controlar el uso de IA
+breve_resumen: Javier González explica en una entrevista en vídeo qué es Vigia13, el proyecto de Bitnaga para controlar el uso de la IA en las organizaciones.
+enlace: https://www.youtube.com/shorts/B5IDULV42kI
+fecha: 2026-10-03
+---
 medio: COPE Málaga
 titulo: La Tarde en COPE Más Málaga · 28 de septiembre
 breve_resumen: Fernando Denis comparte micrófono con Concepción Cordón Fuentes y Enrique Rando González para hablar de Málaga como polo tecnológico y de los eventos de ciberseguridad del 1 de octubre (ISMS Forum, Segurinfo y Gateway Summit), y de cómo Bitnaga ayuda a mejorar la ciberseguridad cuando la IA abre nuevos vectores de ataque.
